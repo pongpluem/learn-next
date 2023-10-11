@@ -10,3 +10,6 @@
 # Start
   - npx create-next-app
 
+# Next doc
+  - https://nextjs.org/docs/app
+
