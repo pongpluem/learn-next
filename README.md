@@ -11,5 +11,6 @@
   - npx create-next-app
 
 # Next doc
-  - https://nextjs.org/docs/app
+  - https://nextjs.org/docs/app  ==> App Route
+  - https://next-auth.js.org/getting-started/example  ==> Auth
 
